@@ -1,0 +1,48 @@
+# The desktop application is maintained in its own Git repository.
+/desktop/
+
+# Local publication helpers and tool settings.
+/.github-publish/
+.codex/
+.agents/
+.aws/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Installed dependencies and generated files.
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+build/
+dist/
+dist-ssr/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+test-results/
+*.log
+
+# Local credentials, accounts, graph data, exports, and backups.
+.env
+.env.*
+!.env.example
+*.local
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.pem
+*.key
+*.p12
+*.pfx
+exports/
+backups/
+*.zip
