@@ -4,6 +4,30 @@ Ce dépôt contient la version web d'OSINT Graph : `backend/`, `frontend/` et
 le lanceur Windows. La version de bureau hors ligne est maintenue séparément
 dans le dépôt `osint-graph-desktop`.
 
+## Licence du code applicatif
+
+Le code de la version web utilise les mêmes conditions que la version desktop :
+la licence personnalisée
+[OSINT Graph — Free Redistribution, No Sale License](LICENSE).
+
+- Utilisation, étude, modification et redistribution gratuites autorisées,
+  y compris au sein d'une entreprise.
+- Vente du logiciel ou d'une version modifiée, facturation d'une licence ou
+  paiement imposé pour obtenir une copie interdits.
+- Licence et mentions de copyright à conserver dans les copies redistribuées ;
+  les versions modifiées doivent être identifiées comme telles.
+- Les prestations distinctes de support, formation, installation ou
+  développement peuvent être facturées si elles ne conditionnent pas l'accès
+  au logiciel distribué ou l'exercice des droits accordés.
+- Les modifications privées n'ont pas à être publiées. Le dépôt est public et
+  les destinataires peuvent partager gratuitement leurs copies selon la licence.
+
+L'interdiction de vente signifie qu'il ne s'agit pas d'une licence open source
+au sens de l'[Open Source Initiative](https://opensource.org/osd).
+Le texte complet de [LICENSE](LICENSE) fait foi. Les dépendances conservent
+leurs propres licences, décrites dans [THIRD_PARTY.md](THIRD_PARTY.md).
+Le build du frontend inclut ces deux fichiers dans `frontend/dist/`.
+
 ## 1) Vue d'ensemble
 
 Ce projet est une preuve de concept (PoC) de graphe OSINT :

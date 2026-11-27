@@ -1,0 +1,89 @@
+OSINT Graph Web - Free Redistribution, No Sale License
+Version 1.0, 27 November 2026
+SPDX-License-Identifier: LicenseRef-OSINTGraph-NoSale-1.0
+
+Copyright (c) 2026 Me-K
+
+1. Scope
+
+This license covers the original application code and documentation of OSINT
+Graph Web accompanied by this notice (the "Software"), to the extent that
+the copyright holder has authority to license them. The same permissions are
+also granted for the original application code and documentation distributed
+in the initial published revision (commit 60add9a4fdc5899d7aa85b910cafaae405b4d18c)
+of the Me-K/osint-graph-web repository.
+
+Third-party components are excluded from the Software as defined here and
+remain governed by their own licenses, as explained in section 5.
+
+2. Permissions
+
+Anyone receiving the Software may use, run, study, copy, modify, and create
+derivative works of it, and may distribute original or modified copies in
+source or compiled form, without paying a license fee, subject to the
+conditions below. Use within a business or other organization is permitted.
+
+3. No sale of the Software
+
+You must not sell or resell the Software or modified versions, charge a license
+fee for them, or require payment for their download, copying, or redistribution.
+This restriction applies to derivative works containing a substantial part of
+the Software and to the Software when offered as a priced part of a bundle.
+Describing a required payment as a donation, access fee, or support fee does
+not avoid this restriction.
+
+You may charge for distinct services, such as installation, support, training,
+or custom development, provided that the charge is for the service and not
+for a copy of, a license to, or the right to redistribute the Software. Such a
+service must not be a compulsory purchase for recipients to obtain a copy of
+the distributed Software or exercise the permissions in section 2.
+
+Voluntary donations are permitted only when declining to donate does not
+restrict access to the distributed Software, its features, or these rights.
+
+4. Conditions of redistribution
+
+Every redistributed copy, including a compiled or modified version, must
+include this license and preserve the applicable copyright notices.
+Modified versions must identify that changes have been made and must not be
+presented as an unmodified release by the original author.
+
+Redistributions of the Software and modified versions remain subject to this
+license, including the no-sale condition. You may not remove these conditions
+or offer the Software under terms that authorize its sale without separate
+permission from the relevant copyright holder or holders. Each recipient
+receives the permissions in section 2 directly under this license.
+
+This license does not require publication of private modifications or require
+you to host a public repository. It does not grant rights to use the author's
+name or project branding to imply endorsement of a modified version.
+
+5. Third-party components
+
+Libraries, runtimes, assets, and other third-party material retain their own
+copyright notices and license terms. See THIRD_PARTY.md and the dependency
+notices supplied with the distribution. This license does not replace those
+terms or restrict rights independently granted by them, including rights to
+modify or replace a library and to debug the use of a modified library.
+Redistributing the complete application also requires compliance with the
+licenses applicable to its third-party components.
+
+6. Warranty and liability
+
+The Software is provided without a promise of fitness, reliability, support,
+or continued availability. To the extent permitted by applicable law, the
+copyright holders and contributors provide no warranties and accept no
+liability for loss or damage arising from use or distribution of the Software.
+Nothing here excludes a protection or liability that applicable law does not
+allow to be excluded.
+
+7. Compliance and separate permissions
+
+These permissions apply only while you comply with this license. If you fail
+to comply, you must stop the activities for which this license is required
+unless the relevant copyright holder grants permission to resume them.
+Rights not expressly granted are reserved. Separate written permission may
+authorize uses that this license does not permit.
+
+This is a custom license with a no-sale restriction, not an OSI-approved
+open-source license. It is not the MIT license or the GNU GPL.
